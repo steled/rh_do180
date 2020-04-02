@@ -1,0 +1,7 @@
+RHT_VENUE=rav
+RHT_ROLE=workstation
+RHT_ENROLLMENT=1
+RHT_COURSE=do180
+RHT_TITLE="Introduction to Containers, Kubernetes, and Red Hat OpenShift"
+RHT_VMTREE="ocp4.2/x86_64"
+RHT_NETWORK=yes
